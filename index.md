@@ -6,8 +6,9 @@ nav_order: 1
 
 # Welcome to Hack the Hood: Hustle! 
 
-[Google Classroom](https://classroom.google.com/c/NzcyMTM3Mjc4NTMy){: .btn .btn-blue }
-[Zoom Link](https://us06web.zoom.us/j/87204423433){: .btn .btn-purple }
+[Google Classroom](https://classroom.google.com/c/NzcyMTM3Mjc4NTMy){: .btn .btn-green }
+[Zoom Link](https://us06web.zoom.us/j/87204423433){: .btn .btn-blue }
+[Handbook](https://sites.google.com/hackthehood.org/hthsummer25/home){: .btn }
 
 Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We will be posting announcements, lecture slides, reminders, and additional resources here. This website will be updated on a weekly basis. Please note that all times are in Pacific Standard Time (PST). 
 
@@ -15,7 +16,15 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 <p><b>Instructors</b>: Alexia Camacho (<a href="mailto:alexia@hackthehood.org">alexia@hackthehood.org</a>) & Jazz Dortch (<a href="mailto:jasmine@hackthehood.org">jasmine@hackthehood.org</a>)
 <b>TA</b>: Elliott Sisk (<a href="mailto:elliott@hackthehood.org">elliott@hackthehood.org</a>)</p>
 
-### Tiger Teams
+---
+## Week 1 Announcements
+- **Assignments Due**:
+  - None yet :) 
+
+- **Reminders**:
+  - We're happy you're here!
+
+## Tiger Teams
 <table>
   <tr>
     <td><b>Tiger Team Color</b></td>
@@ -48,6 +57,7 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 </table>
 
 ---
+## Schedule
 
 ### Week 1
 <table>
@@ -240,5 +250,24 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
     <td><span class="label label-red">NO LECTURE</span> <b>Field Trip</b> 
     </td>
     <td>  </td>
+  </tr>
+</table>
+
+### Weeks 9-12 
+<table>
+  <tr>
+    <td><b>Date</b></td>
+    <td><b>Description</b></td>
+    <td><b>Resources</b></td>
+  </tr>
+  <tr>
+    <td>8/1 - 8/28</td>
+    <td><span class="label label-red">NO LECTURE</span> Asynchronous, Final Project </td>
+    <td> TBD </td>
+  </tr>
+  <tr>
+    <td>Fri 8/29:</td>
+    <td><span class="label label-blue">GRADUATION</span> Congratulations! We are so proud of you! </td>
+    <td> </td>
   </tr>
 </table>
