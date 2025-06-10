@@ -19,10 +19,11 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 ---
 ## Week 1 Announcements
 - **Assignments Due**:
-  - None yet :) 
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg2NTEzNTkzNDgy/details">Tiger Team Profile</a>
+  - <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Pre-Survey</a>
 
 - **Reminders**:
-  - We're happy you're here!
+  - We're happy you're here! Feel free to message us on Slack or email if you have any questions :)
 
 ## Tiger Teams
 <table>

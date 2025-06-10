@@ -7,7 +7,7 @@ nav_order: 3
 Students will be graded in six areas: Pre-Program Survey, Labs/Google Classroom Assignments, Participation, Attendance,	Post-Program Survey, and Final Project
 
 ## Pre-Program Survey
-The pre-program survey is needed from all learners and counts for 1/5 of you final grade. The link to the survey can be found <a href="#">here</a> (TBD.)
+The pre-program survey is needed from all learners and counts for 1/5 of your final grade. The link to the survey can be found <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">here</a>.
 
 ## Labs/Google Classroom Assignments
 Exit tickets must be submitted after each lecture session.
