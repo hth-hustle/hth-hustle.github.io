@@ -69,12 +69,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   <tr>
     <td>Mon 6/9:</td>
     <td><span class="label label-purple">LECTURE</span> Launch Day </td>
-    <td> Learning Lab: Cohort Logistics and Setup </td>
+    <td><a href="https://docs.google.com/presentation/d/1I4G34A2dGmWQDSTsL_TvMn_XKbrALZIxyOvwBxsMZMY/edit?usp=sharing"> Learning Lab Slides: Cohort Logistics and Setup</a> </td>
   </tr>
   <tr>
     <td>Tues 6/10 or Wed 6/11:</td>
     <td><span class="label label-green">TIGER TEAM</span> Meet Your Tiger Team and Environment Setup </td>
-    <td><a href="https://docs.google.com/presentation/d/1-O8kcrv_rZ7e5I0KchfYgWBSNfMzPl4bkc_Br2qEatE/edit?usp=sharing">SCRUM Slides</a>, <a href="https://docs.google.com/document/d/1ynxnO5zHqlid5ZqEe6UlLcHd4hs58fE0/edit?usp=sharing&ouid=101430326917110863212&rtpof=true&sd=true">Lab 1</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1-O8kcrv_rZ7e5I0KchfYgWBSNfMzPl4bkc_Br2qEatE/edit?usp=sharing">SCRUM Slides</a>, <a href="https://docs.google.com/document/d/1hxPBzIy9DqDEfXZusBAGN02g-c4XuBeH9KfnYrDpbjE/edit?usp=sharing">Lab 1: VSCode and Python</a></td>
   </tr>
   <tr>
     <td>Thurs 6/12:</td>
