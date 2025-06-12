@@ -20,10 +20,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 ## Week 1 Announcements
 - **Assignments Due**:
   - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg2NTEzNTkzNDgy/details">Tiger Team Profile</a>
-  - <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Pre-Survey</a>
+  - <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a>
+  - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>, due before 6/19 
 
 - **Reminders**:
   - We're happy you're here! Feel free to message us on Slack or email if you have any questions :)
+  - If you missed Tiger teams or weren't able to finish, please make sure that you have Python and VSCode installed properly before we start coding next week. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
 
 ## Tiger Teams
 <table>
@@ -80,7 +82,7 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   <tr>
     <td>Thurs 6/12:</td>
     <td><span class="label label-purple">LECTURE</span> Identity Development Workshop + Using Tech for Social Justice</td>
-    <td><a href="https://docs.google.com/presentation/d/1Bjn7moQAU-dvfB5mf3kXnaI5vGQJz_BVfqCp_h23OmM/edit?usp=sharing">Tech for Social Justice</a>, <a href="https://docs.google.com/presentation/d/12_tGjB7JPtu2xMkjrsBTGmVDJp9xWhlzKH8qLQn5Zk8/edit?usp=sharing">The Stages of SDLC</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Bjn7moQAU-dvfB5mf3kXnaI5vGQJz_BVfqCp_h23OmM/edit?usp=sharing">Tech for Social Justice</a>, <a href ="https://docs.google.com/document/d/1Q3_7UA18yO7jH1aGzF4HVoru5AcvE95phu8myoWwbhM/edit?tab=t.0#heading=h.4li6jx4l8xj6">Tech Topics Discussion Questions</a>, <a href="https://docs.google.com/presentation/d/12_tGjB7JPtu2xMkjrsBTGmVDJp9xWhlzKH8qLQn5Zk8/edit?usp=sharing">The Stages of SDLC</a></td>
   </tr>
 </table>
 
