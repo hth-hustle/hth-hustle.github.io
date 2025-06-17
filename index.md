@@ -17,15 +17,13 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 <b>TA</b>: Elliott Sisk (<a href="mailto:elliott@hackthehood.org">elliott@hackthehood.org</a>)</p>
 
 ---
-## Week 1 Announcements
+## Week 2 Announcements
 - **Assignments Due**:
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg2NTEzNTkzNDgy/details">Tiger Team Profile</a>
-  - <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a>
-  - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>, due before 6/19 
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3MzQ1ODQ2NTAz/details">Python Variable Profile (Lists + Dictionaries)</a>
 
 - **Reminders**:
-  - We're happy you're here! Feel free to message us on Slack or email if you have any questions :)
-  - If you missed Tiger teams or weren't able to finish, please make sure that you have Python and VSCode installed properly before we start coding next week. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
+  - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>!
+  - If you missed Tiger teams or weren't able to finish last week, please make sure that you have Python and VSCode installed properly before we start coding next week. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
 
 ## Tiger Teams
 <table>
@@ -95,8 +93,8 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Mon 6/16:</td>
-    <td><span class="label label-purple">LECTURE</span> Getting Started with Python </td>
-    <td> Slides, Learning Lab: Introduction, Rejecting the Binary </td>
+    <td><span class="label label-purple">LECTURE</span> Getting Started with Python: Variables and Data Types, Intro to Lists/ Dictionaries </td>
+    <td><a href="https://docs.google.com/presentation/d/1JEf2AxPVnRq2ikXSvPEVWiit7qoAGX4N43BQt7H3J7o/edit?usp=sharing">Lecture Slides</a> , <a href="https://docs.google.com/presentation/d/107PFSQLd-Cn2vZnSYAJ7HFU0X-b6DHO2AZ5wgxSMH8k/edit?usp=sharing">Rejecting the Binary </a></td>
   </tr>
   <tr>
     <td>Tues 6/10 or Wed 6/11:</td>
