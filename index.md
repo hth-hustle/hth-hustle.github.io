@@ -19,7 +19,8 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 ---
 ## Week 2 Announcements
 - **Assignments Due**:
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3MzQ1ODQ2NTAz/details">Python Variable Profile (Lists + Dictionaries)</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3MzQ1ODQ2NTAz/details">Lecture Lab: Python Variable Profile</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3NDQyODI4ODI5">Tiger Team Lab</a>
 
 - **Reminders**:
   - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>!
