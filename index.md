@@ -98,9 +98,9 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
     <td><a href="https://docs.google.com/presentation/d/1JEf2AxPVnRq2ikXSvPEVWiit7qoAGX4N43BQt7H3J7o/edit?usp=sharing">Lecture Slides</a> , <a href="https://docs.google.com/presentation/d/107PFSQLd-Cn2vZnSYAJ7HFU0X-b6DHO2AZ5wgxSMH8k/edit?usp=sharing">Rejecting the Binary </a></td>
   </tr>
   <tr>
-    <td>Tues 6/10 or Wed 6/11:</td>
+    <td>Tues 6/17 or Wed 6/18:</td>
     <td><span class="label label-green">TIGER TEAM</span> Initial Python Practice + Intro to Pseudocode</td>
-    <td> Slides </td>
+    <td><a href="https://docs.google.com/presentation/d/174i1XjSZj1-tLKVATpeNiBvrIyw-TcaMRCfEv8e5KzU/edit?usp=sharing"> TT Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 6/19:</td>
