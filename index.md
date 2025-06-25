@@ -17,10 +17,10 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 <b>TA</b>: Elliott Sisk (<a href="mailto:elliott@hackthehood.org">elliott@hackthehood.org</a>)</p>
 
 ---
-## Week 2 Announcements
+## Week 3 Announcements
 - **Assignments Due**:
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3MzQ1ODQ2NTAz/details">Lecture Lab: Python Variable Profile</a>
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3NDQyODI4ODI5">Tiger Team Lab</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3OTU5MTU4Nzk5/details">Lecture Lab: List Practice</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyNTk2MDYwNTMz/details">Tiger Team Lab</a>
 
 - **Reminders**:
   - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>!
@@ -119,12 +119,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   <tr>
     <td>Mon 6/23:</td>
     <td><span class="label label-purple">LECTURE</span> Tech Industry 101, Data Structures, Python Operators </td>
-    <td> Slides, Learning Lab: Practice with Data Structures </td>
+    <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Lecture Slides</a>, <a href="https://docs.google.com/presentation/d/1B2jXxNGT73VqsWg7lXi-NFLa0n8Mc777gB-clvnTwcg/edit?usp=sharing">Tech 101 Slides</a></td>
   </tr>
   <tr>
     <td>Tues 6/24 or Wed 6/25:</td>
     <td><span class="label label-green">TIGER TEAM</span> Data Types Review + Practice Building Python Functions</td>
-    <td> Slides </td>
+    <td><a href="https://docs.google.com/presentation/d/1wH-sqcD3DqZGuvPXo5vPRz_lmW8bOupgqGMUFE2Hois/edit?usp=sharing">TT Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 6/26:</td>
