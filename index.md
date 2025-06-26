@@ -118,17 +118,17 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Mon 6/23:</td>
-    <td><span class="label label-purple">LECTURE</span> Tech Industry 101, Data Structures, Python Operators </td>
+    <td><span class="label label-purple">LECTURE</span> Tech Industry 101, Data Structures</td>
     <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Lecture Slides</a>, <a href="https://docs.google.com/presentation/d/1B2jXxNGT73VqsWg7lXi-NFLa0n8Mc777gB-clvnTwcg/edit?usp=sharing">Tech 101 Slides</a></td>
   </tr>
   <tr>
     <td>Tues 6/24 or Wed 6/25:</td>
-    <td><span class="label label-green">TIGER TEAM</span> Data Types Review + Practice Building Python Functions</td>
-    <td><a href="https://docs.google.com/presentation/d/1wH-sqcD3DqZGuvPXo5vPRz_lmW8bOupgqGMUFE2Hois/edit?usp=sharing">TT Slides</a></td>
+    <td><span class="label label-green">TIGER TEAM</span>Review + Practice with List Functions</td>
+    <td><a href="https://docs.google.com/presentation/d/1wH-sqcD3DqZGuvPXo5vPRz_lmW8bOupgqGMUFE2Hois/edit?usp=sharing">TT Slides</a>, <a href="https://docs.google.com/document/d/1-fxLLMxW-lJxTIIvr6bJzcbz7aa8Y21i3VK6GNbISZw/edit?tab=t.0#heading=h.pim3jhl9j7ka">List Assignment Doc</a></td>
   </tr>
   <tr>
     <td>Thurs 6/26:</td>
-    <td><span class="label label-purple">LECTURE</span> Career Exposure Panel + Community Building, Technical Benevolence </td>
+    <td><span class="label label-purple">LECTURE</span> Career Exposure Panel + Community Building, Mad Libs: User Input Practice </td>
     <td> Slides </td>
   </tr>
 </table>
@@ -142,7 +142,7 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Mon 6/30:</td>
-    <td><span class="label label-purple">LECTURE</span> Social Entrepreneurship and Tech, Digital Cookie Crumbs, Python Iteration and Functions</td>
+    <td><span class="label label-purple">LECTURE</span> Social Entrepreneurship and Tech, Digital Cookie Crumbs, Python Operators and Conditionals, Python Iteration and Functions</td>
     <td> Slides, Learning Lab: Python Review & Practice, Kahoot </td>
   </tr>
   <tr>
