@@ -21,6 +21,7 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 - **Assignments Due**:
   - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3OTU5MTU4Nzk5/details">Lecture Lab: List Practice</a>
   - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyNTk2MDYwNTMz/details">Tiger Team Lab</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzcwMDc5MDUyMjM5/details">User Input Practice: Mad Libs</a>
 
 - **Reminders**:
   - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>!
