@@ -124,12 +124,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   <tr>
     <td>Tues 6/24 or Wed 6/25:</td>
     <td><span class="label label-green">TIGER TEAM</span>Review + Practice with List Functions</td>
-    <td><a href="https://docs.google.com/presentation/d/1wH-sqcD3DqZGuvPXo5vPRz_lmW8bOupgqGMUFE2Hois/edit?usp=sharing">TT Slides</a>, <a href="https://docs.google.com/document/d/1-fxLLMxW-lJxTIIvr6bJzcbz7aa8Y21i3VK6GNbISZw/edit?tab=t.0#heading=h.pim3jhl9j7ka">List Assignment Doc</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1wH-sqcD3DqZGuvPXo5vPRz_lmW8bOupgqGMUFE2Hois/edit?usp=sharing">TT Slides</a>, <a href="https://docs.google.com/document/d/1-fxLLMxW-lJxTIIvr6bJzcbz7aa8Y21i3VK6GNbISZw/edit?tab=t.0#heading=h.pim3jhl9j7ka">List Assignment Doc</a>, <a href="https://docs.google.com/document/d/10NON_K-DSH-Fco-Y4wp4aSNnYGBArffuCQLxm3OlkEU/edit?tab=t.0#heading=h.h1i5wd22g58m">(Optional) More Dictionary Practice</a></td>
   </tr>
   <tr>
     <td>Thurs 6/26:</td>
     <td><span class="label label-purple">LECTURE</span> Career Exposure Panel + Community Building, Mad Libs: User Input Practice </td>
-    <td> Slides </td>
+    <td><a href="https://docs.google.com/presentation/d/1y3TauJJ23UwAB1RrUnt3Goq7KJPkZEQbeXTM1LnMbsY/edit?usp=sharing">User Input/ Mad Libs Slides</a>, <a href="https://colab.research.google.com/drive/1Axq_wnOxVtycQ3KcdDRgNxxcHFlXbse2?usp=classroom_web"> Mad Libs Colab</a></td>
   </tr>
 </table>
 
