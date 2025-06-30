@@ -17,13 +17,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 <b>TA</b>: Elliott Sisk (<a href="mailto:elliott@hackthehood.org">elliott@hackthehood.org</a>)</p>
 
 ---
-## Week 3 Announcements
+## Week 4 Announcements
 - **Assignments Due**:
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg3OTU5MTU4Nzk5/details">Lecture Lab: List Practice</a>
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyNTk2MDYwNTMz/details">Tiger Team Lab</a>
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzcwMDc5MDUyMjM5/details">User Input Practice: Mad Libs</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyNzk3Njc0ODIx/details">Lecture Lab: If/ Else</a>
 
 - **Reminders**:
+  - Please remember to email or Slack us if you will be missing class or running late <b>before class starts</b>. If we don't hear from you before class, your absence will be <b>unexcused</b> 🙃
   - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>!
   - If you missed Tiger teams or weren't able to finish last week, please make sure that you have Python and VSCode installed properly before we start coding next week. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
 
@@ -143,12 +142,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Mon 6/30:</td>
-    <td><span class="label label-purple">LECTURE</span> Social Entrepreneurship and Tech, Digital Cookie Crumbs, Python Operators and Conditionals, Python Iteration and Functions</td>
-    <td> Slides, Learning Lab: Python Review & Practice, Kahoot </td>
+    <td><span class="label label-purple">LECTURE</span> Digital Cookie Crumbs, Python Operators and Conditionals</td>
+    <td><a href="https://docs.google.com/presentation/d/12gpFSkTyEJvledqlKCelLijurvWhrjhQiGhbXU99tbA/edit?usp=sharing">Digital Cookie Crumbs</a>, <a href="https://docs.google.com/presentation/d/1PUG9G8Fb_S6M93mxqaNDgVYd61kZaUR9fExWA5br4_k/edit?usp=sharing">Weeks 1-3 Review</a>, <a href="https://docs.google.com/presentation/d/1wrLtJ_jmua4TJN34K49kXVk6pZIYKnJIoWRgDh9oL-c/edit?usp=sharing"> Operators & Conditionals</a>, <a href="https://docs.google.com/document/d/1Z9PqWZK4w7jJeHceYojC9IeVrn1k8_FJPjQKHd384Kc/edit?usp=sharing">Learning Lab: Conditionals</a></td>
   </tr>
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
-    <td><span class="label label-green">TIGER TEAM</span> Mid-Synchronous Check-Ins, The Terminal Checklist</td>
+    <td><span class="label label-green">TIGER TEAM</span> Mid-Synchronous Check-Ins, The Terminal Checklist, Python Iteration </td>
     <td> Slides </td>
   </tr>
   <tr>
