@@ -20,11 +20,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 ## Week 4 Announcements
 - **Assignments Due**:
   - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyNzk3Njc0ODIx/details">Lecture Lab: If/ Else</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyODMxMDIyODY3/details">Tiger Team Lab: If/ Else</a>
 
 - **Reminders**:
   - Please remember to email or Slack us if you will be missing class or running late <b>before class starts</b>. If we don't hear from you before class, your absence will be <b>unexcused</b> 🙃
-  - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C">Program Pre-Survey</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?usp=header">Identity Dev Workshop 1 Survey</a>!
-  - If you missed Tiger teams or weren't able to finish last week, please make sure that you have Python and VSCode installed properly before we start coding next week. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
+  - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C"><b>Program Pre-Survey</b></a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnJ-h0NMeIT8iGtT2kLXtnOSJp19nm66IMvWrSCeoFA-QqAQ/viewform"><b>Identity Dev Workshop 2 Survey</b></a>!
+  - Please make sure that you have Python and VSCode installed properly. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
 
 ## Tiger Teams
 <table>
@@ -147,13 +148,13 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
-    <td><span class="label label-green">TIGER TEAM</span> Mid-Synchronous Check-Ins, The Terminal Checklist, Python Iteration </td>
-    <td> Slides </td>
+    <td><span class="label label-green">TIGER TEAM</span> Mid-Synchronous Check-Ins, Practice with Conditionals</td>
+    <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiObvNmXvnBATLMYUZehQn4X4SjAxz-H9qeu51RhVBoyrwvQ/viewform">Mid-Sync Check In Form</a>, <a href="https://docs.google.com/presentation/d/1rjtbisjFCvzcYFTR1Dz7ohX421O_lXJyWA5PvpXKelk/edit?usp=sharing">TT Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 7/3:</td>
-    <td><span class="label label-purple">LECTURE</span> Identity Development Workshop + Community Building, Introducing Other Resources: Py.CheckIO</td>
-    <td> Slides </td>
+    <td><span class="label label-purple">LECTURE</span> Identity Development Workshop + Community Building, Intro to For Loops</td>
+    <td><a href="https://docs.google.com/presentation/d/1-c7VWA6KxdBlA2PrF-pSjhkC6y9fT59mFsRSi8YDMJg/edit?usp=sharing">Lecture Slides</a></td>
   </tr>
 </table>
 
