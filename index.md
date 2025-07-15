@@ -17,15 +17,14 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
 <b>TA</b>: Elliott Sisk (<a href="mailto:elliott@hackthehood.org">elliott@hackthehood.org</a>)</p>
 
 ---
-## Week 4 Announcements
+## Week 6 Announcements
 - **Assignments Due**:
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyNzk3Njc0ODIx/details">Lecture Lab: If/ Else</a>
-  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/NzgyODMxMDIyODY3/details">Tiger Team Lab: If/ Else</a>
+  - <a href="https://classroom.google.com/c/NzcyMTM3Mjc4NTMy/a/Nzg5MjQwNzA2MjA3/details">Lecture Lab: While Loops and Functions</a>
 
 - **Reminders**:
+  - Our field trip to the Google office in SF is coming up on Thursday 7/31. Attendance is mandatory. If you need an excused absence, please email Henry (<a href="mailto:henry@hackthehood.org">henry@hackthehood.org</a>) and include us in your email.
   - Please remember to email or Slack us if you will be missing class or running late <b>before class starts</b>. If we don't hear from you before class, your absence will be <b>unexcused</b> 🙃
-  - Don't forget to fill out the <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_9RyPK8ZrD0iak0C"><b>Program Pre-Survey</b></a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnJ-h0NMeIT8iGtT2kLXtnOSJp19nm66IMvWrSCeoFA-QqAQ/viewform"><b>Identity Dev Workshop 2 Survey</b></a>!
-  - Please make sure that you have Python and VSCode installed properly. TT Slides with instructions are linked below in Week 1 resources. Message us if you need any help and we can walk you through any issues you're having. 
+  - Don't forget to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMCePfSlZp6cExrEa0Nnv7rIIj_DUbqIiqxlooM6BEnM9XWQ/viewform"><b>Resume 101 Workshop Survey</b></a> from Week 5's Thursday lecture!
 
 ## Tiger Teams
 <table>
@@ -167,18 +166,18 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Mon 7/7:</td>
-    <td><span class="label label-purple">LECTURE</span> Kahoot Review: Pseudocode, Examining ChatGPT and Understanding Large Language Models, Programming Errors</td>
-    <td> Slides, Learning Lab: Error Review and Practice, Kahoot</td>
+    <td><span class="label label-purple">LECTURE</span> For Loops Intro</td>
+    <td><a href="https://docs.google.com/presentation/d/1JUzae7i2K3hTczUDTIIRHuQknRmVEKLGxOcbgtLeuVU/edit">For Loops Slides</a>, <a href="https://colab.research.google.com/drive/1Gv4hXDhNWNxg2iIy188cu8F4BdFKRSvZ?usp=classroom_web">Lecture Colab: For Loops</a>, <a href="https://docs.google.com/document/d/1nnGwqo0XmsFPWjr6gJQNoUoy9wbZO_-R1_kuu9k0tJw/edit?tab=t.0#heading=h.9vfclknwmlpm"> Learning Lab: For Loops Part 1 Tasks</a></td>
   </tr>
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
-    <td><span class="label label-green">TIGER TEAM</span> Code Error Clinic </td>
-    <td> Slides </td>
+    <td><span class="label label-green">TIGER TEAM</span> For Loops with Range, Strings, Lists</td>
+    <td><a href="https://docs.google.com/presentation/d/1XNJXjFgy3b7wWPT8hGRwwEe3OEEwTnTdyFdfTCY2f90/edit">TT Slides</a>, <a href="https://docs.google.com/document/d/1TRnhkXsmq1wY0w6M6CAiXclACo9Y9ZYP7HB86PA2IY4/edit?tab=t.0">For Loops Part 2 Tasks</a></td>
   </tr>
   <tr>
     <td>Thurs 7/10:</td>
-    <td><span class="label label-purple">LECTURE</span> Resume Building Workshop + Community Building, Misinformation Identification</td>
-    <td> Slides </td>
+    <td><span class="label label-purple">LECTURE</span> Resume Building Workshop + Community Building, While Loops Intro</td>
+    <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeMCePfSlZp6cExrEa0Nnv7rIIj_DUbqIiqxlooM6BEnM9XWQ/viewform">Resume 101 Workshop Survey</a>, <a href="https://www.youtube.com/watch?v=0DgFHm9EKkQ&t=4s"> While Loops Video</a></td>
   </tr>
 </table>
 
@@ -191,12 +190,12 @@ Welcome to the resource hub for Hack the Hood's Hustle Summer 2025 program. We w
   </tr>
   <tr>
     <td>Mon 7/14:</td>
-    <td><span class="label label-purple">LECTURE</span> Watched but Unseen, Object Oriented Programming (OOP) </td>
-    <td> Slides, Learning Lab: Superhero Battle Simulator </td>
+    <td><span class="label label-purple">LECTURE</span> While Loops and Functions Intro</td>
+    <td><a href="https://docs.google.com/presentation/d/1JmYcfxgwyuQY_XILqowAIbNY-8azhrbXvxXwHaOhOmE/edit?usp=sharing">While Loops Slides</a>, <a href="https://docs.google.com/presentation/d/1ih0DKhB4mjG6-fxNQ6nhSIcM-zLj5JjmzNfEZ3dVAlo/edit?usp=sharing">Functions Slides</a>, <a href="https://colab.research.google.com/drive/1dea_950Qe9cYIJKbkyFeCWqx10VTQGpN?usp=classroom_web">Learning Lab: Functions Practice Colab</a></td>
   </tr>
   <tr>
     <td>Tues 7/15 or Wed 7/16:</td>
-    <td><span class="label label-green">TIGER TEAM</span> Python Party Invitations (OOP) </td>
+    <td><span class="label label-green">TIGER TEAM</span> More Practice with Functions, Async Scheduling </td>
     <td> Slides </td>
   </tr>
   <tr>
